@@ -1,0 +1,2 @@
+# elkod
+obrt za elektroniku
